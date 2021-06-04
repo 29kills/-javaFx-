@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PicturesBrowser-10.0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PicturesBrowser_10_0_jar</output-path>
+    <root id="archive" name="PicturesBrowser-10.0.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="PicturesBrowser-10.0" />
+    </root>
+  </artifact>
+</component>
